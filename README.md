@@ -1,7 +1,7 @@
 XMasBingo
 =========
 
-A Christmas Bingo sheet maker.  There are twenty seven pictures, though a given board only uses sixteen.  The images are chosen randomly.  Refresh the page to get a random new board.
+A Christmas Bingo sheet maker.  There are twenty seven pictures, though a given board only uses sixteen.  The images are chosen randomly.  Refresh the page to get a random new board.  The images are all Public Domain, and so are the resulting Bingo boards.
 
 The `html` file has style information in the top of it.  If you find that the boards are not the right size for your needs, you can make a copy of the project and then tweak the CSS until you get what you need.
 
