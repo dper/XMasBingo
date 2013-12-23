@@ -7,12 +7,15 @@ The `html` file has style information in the top of it.  If you find that the bo
 
 The underlying code can easily be adapted to non-Christmas use.  The code here is very short and simple and, therefore, easy to modify to fit your needs.
 
+Try
+===
+If you want to use this project, browse to <https://dperkins.org/2013/2013-12-22.XMasBingo-1.0/bingo.html>.  Alternately, download the latest release or clone the repository and browse to `bingo.html`.
 
 Sources
 =======
 
-* Most of the images are from Clker.  http://www.clker.com/
-* The array randomizer was written by Laurens Holst.  http://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array
+* Most of the images are from Clker. <http://www.clker.com/>
+* The array randomizer was written by Laurens Holst. <http://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array>
 
 Contact
 =======
