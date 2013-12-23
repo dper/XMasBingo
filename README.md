@@ -9,7 +9,7 @@ The underlying code can easily be adapted to non-Christmas use.  The code here i
 
 Try
 ===
-If you want to use this project, browse to <https://dperkins.org/2013/2013-12-22.XMasBingo-1.0/bingo.html>.  Alternately, download the latest release or clone the repository and browse to `bingo.html`.
+If you want to use this project, browse to <https://dperkins.org/2013/2013-12-23.XMasBingo-1.2/bingo.html>.  Alternately, download the latest release or clone the repository and browse to `bingo.html`.
 
 When you're running Bingo at school or in an event, you might find the `Bingo.Key.odt` file to be a handy reference; it has all of the images and their names on one page.
 
