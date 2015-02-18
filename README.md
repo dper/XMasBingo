@@ -7,25 +7,45 @@ The `html` file has style information in the top of it.  If you find that the bo
 
 The underlying code can easily be adapted to non-Christmas use.  The code here is very short and simple and, therefore, easy to modify to fit your needs.
 
+
 Try
 ===
+
 If you want to use this project, browse to <https://dperkins.org/2013/2013-12-23.XMasBingo-1.2/bingo.html>.  Alternately, download the latest release or clone the repository and browse to `bingo.html`.
 
 When you're running Bingo at school or in an event, you might find the `Bingo.Key.odt` file to be a handy reference; it has all of the images and their names on one page.
 
 The `Bingo.Flashcards.odg` file has each image on its own page.  If you print it out, you can choose the next word by randomly choosing a sheet from that stack.
 
-Sources
-=======
-* Most of the images are from Clker. <http://www.clker.com/>
-* The array randomizer was written by Laurens Holst. <http://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array>
+
+References
+==========
+
+* Most of the images are from [Clker](http://www.clker.com/).
+* The array randomizer was written by [Laurens Holst](http://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array).
+
+
+Source
+======
+
+* Browse: <https://dperkins.org/git/gitlist/xmasbingo.git/>.
+* Clone: <https://dperkins.org/git/public/xmasbingo.git/>.
+* GitHub: <https://github.com/dper/xmasbingo/>.
+
 
 Contact
 =======
-Should you have any questions, comments, bug reports, or other feedback, the best point of contact is the project's GitHub page: <https://github.com/dper/XMasBingo>.  Alternately, try <https://dperkins.org>.
+
+If you want to contact the author, here are some ways.  Bug reports and improvements are always welcome.
+
+* <https://microca.st/dper>
+* <https://twitter.com/dpp0>
+* <https://dperkins.org/tag/contact.html>
+
 
 License
 =======
+
 Copyright (C) 2013 Douglas Paul Perkins
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
